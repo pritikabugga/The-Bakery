@@ -2,7 +2,7 @@
 
 ## Overview
 
-With the automatic bakery project, you can let the program know your dessert preference, and it will immediately provide it to you. The Bakery class boasts a delightful arrayList of Dessert Objects, containing objects that extend the Dessert class. Whether it's a cupcake adorned with sprinkles or candy, a scoop of ice cream with caramel, or a cookie bursting with chocolate chips or icing. The bakery also offers seamless discount options through various methods to suit different discount types. Moreover, the bakery prioritizes robust error handling to ensure seamless operation. From addressing input errors to navigating unexpected scenarios, my program is adept at handling them with finesse. Simply select your desired treat, tailor it to your liking, and savor the sweetness worry-free!
+With the automatic bakery project, you can let the program know your dessert preference, and it will immediately provide it to you. The Bakery class boasts a delightful ArrayList of Dessert Objects, containing objects that extend the Dessert class. Whether it's a cupcake adorned with sprinkles or candy, a scoop of ice cream with caramel, or a cookie bursting with chocolate chips or icing. The bakery also offers seamless discount options through various methods to suit different discount types. Moreover, the bakery prioritizes robust error handling to ensure seamless operation. From addressing input errors to navigating unexpected scenarios, my program is adept at handling them with finesse. Simply select your desired treat, tailor it to your liking, and savor the sweetness worry-free!
 
 ## Features
 
