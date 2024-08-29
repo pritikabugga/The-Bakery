@@ -1,4 +1,4 @@
-# The Automated Bakery Project
+# The Automatic Bakery Project
 
 ## Overview
 
@@ -49,5 +49,6 @@ With the automatic bakery project, you can let the program know your dessert pre
 4. Run the application:
    - In your IDE, locate the `Main` class.
    - Right-click the `Main` class and select `Run` or use the run configuration in your IDE to start the program.
+
 
 
